@@ -18,8 +18,8 @@
   overflow: hidden;
 }
 .achievement-banner .achievement-icon {
-	border-radius: 10em;
-	position: relative;
+  border-radius: 10em;
+  position: relative;
   background: #000;
   border: .125em solid #F5C4C3;
 	border-top-color: #45ca3d;
@@ -53,8 +53,9 @@
   top: -.125em;
 }
 .achievement-banner .achievement-text {
-	font-family: "Trebuchet MS";
+  font-family: "Trebuchet MS";
   text-shadow: 0 2px 0 #000;
+	text-align: center;
   position: absolute;
   top: .5em;
   left: 4em;
