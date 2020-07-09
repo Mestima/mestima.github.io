@@ -10,21 +10,21 @@ Just place `book.lua` file at `.../lua/autorun/client/` folder
 To create a book gui just follow an example below
 
 ```lua
-	local testbook = vgui.Create("Book")
-	testbook:Draw({
-		title = "Test Title",
-		subtitle = "Test Subtitle",
-		pages = {
-			"hello world page",
-			[[
-				<div align="center">
-					Hello World!
-					<br>
-					<img src="https://i.imgur.com/S2lYrKD.gif" />
-				</div>
-			]]
-		}
-	})
+local testbook = vgui.Create("Book")
+testbook:Draw({
+	title = "Test Title",
+	subtitle = "Test Subtitle",
+	pages = {
+		"hello world page",
+		[[
+			<div align="center">
+				Hello World!
+				<br>
+				<img src="https://i.imgur.com/S2lYrKD.gif" />
+			</div>
+		]]
+	}
+})
 ```
 
 ### Download
