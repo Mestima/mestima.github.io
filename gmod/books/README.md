@@ -9,7 +9,7 @@ Just place `book.lua` file at `.../lua/autorun/client/` folder
 
 To create a book gui just follow an example below
 
-<
+```lua
 	local testbook = vgui.Create("Book")
 	testbook:Draw({
 		title = "Test Title",
@@ -25,8 +25,8 @@ To create a book gui just follow an example below
 			]]
 		}
 	})
->
+```
 
 ### Download
 
-[Download book.lua][https://mestima.github.io/gmod/books/book.lua]
+[Download book.lua](https://mestima.github.io/gmod/books/book.lua)
