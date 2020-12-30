@@ -44,10 +44,10 @@ function PANEL:Draw(dta)
 			<meta charset="UTF-8" />
 			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 			<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-			<link rel="stylesheet" type="text/css" href="https://mestima.github.io/gmod/books/css/default.css" />
-			<link rel="stylesheet" type="text/css" href="https://mestima.github.io/gmod/books/css/bookblock.css" />
-			<link rel="stylesheet" type="text/css" href="https://mestima.github.io/gmod/books/css/style.css" />
-			<script src="https://mestima.github.io/gmod/books/js/modernizr.custom.js"></script>
+			<link rel="stylesheet" type="text/css" href="https://mestima.github.io/gBook/css/default.css" />
+			<link rel="stylesheet" type="text/css" href="https://mestima.github.io/gBook/css/bookblock.css" />
+			<link rel="stylesheet" type="text/css" href="https://mestima.github.io/gBook/css/style.css" />
+			<script src="https://mestima.github.io/gBook/js/modernizr.custom.js"></script>
 		</head>
 		<body>
 			<div class="container">
@@ -76,8 +76,8 @@ function PANEL:Draw(dta)
 
 			</div>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-			<script src="https://mestima.github.io/gmod/books/js/jquerypp.custom.js"></script>
-			<script src="https://mestima.github.io/gmod/books/js/jquery.bookblock.min.js"></script>
+			<script src="https://mestima.github.io/gBook/js/jquerypp.custom.js"></script>
+			<script src="https://mestima.github.io/gBook/js/jquery.bookblock.min.js"></script>
 			<script>
 				var Page = (function() {
 					

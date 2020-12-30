@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'arrows';
-	src:url('https://mestima.github.io/gmod/books/fonts/arrows.eot');
-	src:url('https://mestima.github.io/gmod/books/fonts/arrows.eot?#iefix') format('embedded-opentype'),
-		url('https://mestima.github.io/gmod/books/fonts/arrows.woff') format('woff'),
-		url('https://mestima.github.io/gmod/books/fonts/arrows.ttf') format('truetype'),
-		url('https://mestima.github.io/gmod/books/fonts/arrows.svg#arrows') format('svg');
+	src:url('https://mestima.github.io/gBook/fonts/arrows.eot');
+	src:url('https://mestima.github.io/gBook/fonts/arrows.eot?#iefix') format('embedded-opentype'),
+		url('https://mestima.github.io/gBook/fonts/arrows.woff') format('woff'),
+		url('https://mestima.github.io/gBook/fonts/arrows.ttf') format('truetype'),
+		url('https://mestima.github.io/gBook/fonts/arrows.svg#arrows') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
